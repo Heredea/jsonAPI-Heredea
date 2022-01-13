@@ -1,0 +1,45 @@
+{
+    "_id": "61e02757dc991bf35dde671c",
+    "index": 0,
+    "guid": "6e92407f-9012-4be4-8844-9e28bad297d7",
+    "isActive": true,
+    "balance": "$3,815.10",
+    "picture": "http://placehold.it/32x32",
+    "age": 25,
+    "eyeColor": "brown",
+    "name": "Claudette Hines",
+    "gender": "female",
+    "company": "FROSNEX",
+    "email": "claudettehines@frosnex.com",
+    "phone": "+1 (834) 503-2170",
+    "address": "601 Waldorf Court, Oretta, Utah, 5847",
+    "about": "Eu ex adipisicing amet et tempor aliqua proident et tempor dolor reprehenderit laborum. Commodo Lorem nulla aute amet ad eu amet. Id pariatur laborum laboris et dolore.\r\n",
+    "registered": "2021-04-21T02:47:09 -03:00",
+    "latitude": 65.163141,
+    "longitude": 119.524464,
+    "tags": [
+      "irure",
+      "consequat",
+      "non",
+      "excepteur",
+      "proident",
+      "cupidatat",
+      "elit"
+    ],
+    "friends": [
+      {
+        "id": 0,
+        "name": "Jaclyn Mcconnell"
+      },
+      {
+        "id": 1,
+        "name": "Pamela Delacruz"
+      },
+      {
+        "id": 2,
+        "name": "Kristy Aguilar"
+      }
+    ],
+    "greeting": "Hello, Claudette Hines! You have 1 unread messages.",
+    "favoriteFruit": "strawberry"
+  }
